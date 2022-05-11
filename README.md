@@ -48,6 +48,8 @@ There are multiple ways to get the flag:
 
 Copy the flag into the text field and submit it. (Don't worry, about whitespaces, they're automatically removed by the submit button.)
 
+![2022-05-11_03-25-05](https://user-images.githubusercontent.com/61058098/167750426-050f38c5-f9e7-468a-8ce5-1b813476f90f.png)
+
 If you are unable to copy the flag try disabling all extensions and reload the page.
 
 ### **6. You win!** (if you submitted the right flag)
