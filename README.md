@@ -5,6 +5,10 @@
 This is just a little ctf that was inspired by the paywall of [StuDocu](https://studocu.com/).
 Their paywall is really easy to crack, but the ctf is a bit more difficult because you can't make any changes to the body (3 exceptions) and the position of the flag is randomized.
 
+I did not report anything to [StuDocu](https://studocu.com/) because it's very obvious that this is possible and they probably get a report each day.
+
+If you think this should be reported: Go ahead, maybe they'll fix it.
+
 ## How to play
 
 ### **1. Clone the repo**
