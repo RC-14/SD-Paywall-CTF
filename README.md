@@ -1,5 +1,9 @@
 # SD-Paywall-CTF
 
+This repo is archived.
+That doesn't mean that [StuDocu](https://studocu.com/) fixed anything.
+The only thing that means is that (at the moment of archiving this repo) everything works as expected and there is no need to change anything ever again.
+
 ## Description
 
 This is just a little ctf that was inspired by the paywall of [StuDocu](https://studocu.com/).
